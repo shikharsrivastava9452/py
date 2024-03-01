@@ -61,6 +61,12 @@
 .navitems{
     width: 700px;
 }
+.nav_item :hover{
+
+    color: blue;
+   
+
+}
 .nev_text2{
     font-style:bold;
 }
